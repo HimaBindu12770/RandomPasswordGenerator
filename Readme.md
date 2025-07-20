@@ -1,23 +1,28 @@
 📋 Project Description:
-A simple Random Password Generator developed using Python CLI (Command Line Interface).
-This project allows users to generate random, secure passwords with their preferred options like:
+A simple Random Password Generator developed using Python.
+Allows users to generate strong, secure, and random passwords with options to include:
 
-Letters
+Letters (Uppercase & Lowercase)
 
 Numbers
 
 Symbols
 
-Length of the password
+Customizable Password Length
+
+Perfect project to understand Python basics like randomization, string handling, and user input validation.
 
 🚀 Features:
-✅ User-defined Password Length
-✅ Option to Include Letters, Numbers, Symbols
-✅ Secure, Random Password Generation
-✅ Simple CLI Interface (Beginner Friendly)
+User-defined Password Length
+
+Option to Include Letters, Numbers, Symbols
+
+Secure Random Password Generation
+
+Simple and Beginner-Friendly CLI
 
 🛠️ Technologies Used:
-Python 3.x
+Python
 
 Built-in Libraries:
 
@@ -25,13 +30,8 @@ random
 
 string
 
-💡 How to Run This Project:
-1️⃣ Open VS Code or Terminal
-2️⃣ Navigate to the Project Directory
-3️⃣ Run the following command:
-
+💡 How to Run:
 bash
 Copy
 Edit
-
-
+python password_generator.py
